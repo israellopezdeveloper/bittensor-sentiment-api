@@ -144,3 +144,7 @@ curl -X GET "http://localhost:8000/api/v1/tao_dividends?netuid=18&trade=true" \
 - Stake/Unstake logic is based on `0.01 * abs(sentiment)`, limited for safety.
 - Concurrent requests are supported and tested with mocked Redis and blockchain
   layers.
+
+## Video
+
+[Video](.demo.mp4)
