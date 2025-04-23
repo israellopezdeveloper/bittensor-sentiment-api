@@ -147,4 +147,4 @@ curl -X GET "http://localhost:8000/api/v1/tao_dividends?netuid=18&trade=true" \
 
 ## Video
 
-[Video](.demo.mp4)
+[Video](demo.mp4)
